@@ -1,0 +1,19 @@
+indexes:
+
+- kind: Order
+  properties:
+  - name: ipaddr
+  - name: paid
+  - name: ctime
+
+- kind: Order
+  properties:
+  - name: email
+  - name: paid
+  - name: ctime
+
+- kind: InstantPaymentNotification
+  properties:
+  - name: email
+  - name: paid
+  - name: ctime
