@@ -50,3 +50,10 @@ management.
 - Bitcointalk thread: https://bitcointalk.org/index.php?topic=37436.0
 - Hacker News retrospective: https://news.ycombinator.com/item?id=25580637
 - Bitcoin Stack Exchange mention: https://bitcoin.stackexchange.com/questions/7177/buy-bitcoins-using-google-checkout
+
+## Licensing scope
+
+Original code and documentation authored for this project by Dean Pierce are licensed under the [Apache License 2.0](LICENSE).
+Third-party dependencies, assets, and quoted material retain their respective licenses and notices. This grant does not relicense third-party work.
+
+The bundled `bitcoin/` library (including its LGPL-licensed proxy) and `googlecheckout.py` are third-party material excluded from this grant; their existing licenses and notices remain in effect.
